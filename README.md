@@ -24,7 +24,7 @@ There are three files:
 2. [operativ.kafka.topic-test.clj](test/operativ/kafka/topic_test.clj)  contains three tests that currently fail
 3. [operativ.test.data.cljc](test/operativ/test/data.clj) contains the test data and description of what it all means
 
-There are is one principal technical challenge:
+There is one principal technical challenge:
 
 1. Implement the operativ.kafka.topic/sizes function, causing the first test to pass.
 
